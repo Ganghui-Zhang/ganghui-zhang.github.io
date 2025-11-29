@@ -1,7 +1,7 @@
 ---
 title: "Structure-preserving parametric finite element method for surface diffusion based on Lagrange multiplier approaches"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2025-09-01-paper-6-Lagrange-SISC
 excerpt: '(Joint with Harald Garcke, Wei Jiang and Chunmei Su)'
 date: 2025-09-01
