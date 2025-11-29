@@ -23,7 +23,7 @@ Education
 Work experience
 ======
 * 2025.09 -- now: Postdoctoral Research Assistant
-  * Institute of Mathematics, University of Oxford, The United Kingdom
+  * Mathematical Institute, University of Oxford, The United Kingdom
   * Mentor: Professor [Kaibo Hu](https://kaibohu.github.io/)
 * 2025.04 -- 2025.08: Postdoctoral Research Assistant
   * Department of Mathematics, University of Edinburgh, The United Kingdom
