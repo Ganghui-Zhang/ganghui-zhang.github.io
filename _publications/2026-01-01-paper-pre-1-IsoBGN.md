@@ -1,7 +1,7 @@
 ---
 title: "Isoparametric finite element methods for mean curvature flow and surface diffusion"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2025-12-12-paper-title-IsoBGN
 excerpt: '(Joint with Harald Garcke, Robert Nurnberg and Simon Praetorius)'
 date: 2025-12-12
