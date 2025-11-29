@@ -11,13 +11,13 @@ redirect_from:
 
 Address
 ======
-School of Mathematics, the University of Edinburgh
+Mathematical Institute, University of Oxford
 
-James Clerk Maxwell Building
+Radcliffe Observatory, Andrew Wiles Building
 
-Peter Guthrie Tait Rd, Edinburgh EH9 3FD, UK
+Woodstock Rd, Oxford OX2 6GG
 
 
 E-mail
 ======
-ganghui.zhang[a]ed.ac.uk
+ganghui.zhang[a]maths.ox.ac.uk
