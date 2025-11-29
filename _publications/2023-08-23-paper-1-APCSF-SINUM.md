@@ -1,6 +1,6 @@
 ---
 title: "A convexity-preserving and perimeter-decreasing parametric finite element method for the area-preserving curve shortening flow"
-authors:  Wei Jiang, Chunmei Su and Ganghui Zhang
+authors:  'Wei Jiang, Chunmei Su and Ganghui Zhang'
 collection: publications
 category: manuscripts
 permalink: /publication/2023-08-23-paper-1-APCSF-SINUM
