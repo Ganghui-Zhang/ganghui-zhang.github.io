@@ -1,7 +1,7 @@
 ---
 title: "A convexity-preserving and perimeter-decreasing parametric finite element method for the area-preserving curve shortening flow"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2023-08-23-paper-1-APCSF-SINUM
 excerpt: '(Joint with Wei Jiang and Chunmei Su)'
 date: 2023-08-23
