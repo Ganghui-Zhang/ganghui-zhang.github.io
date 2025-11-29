@@ -1,7 +1,7 @@
 ---
 title: "Predictor-corrector, BGN-based parametric finite element methods for surface diffusion"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2025-06-01-paper-4-PC-JCP
 excerpt: '(Joint with Wei Jiang, Chunmei Su and Lian Zhang)'
 date: 2025-06-01
