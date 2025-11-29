@@ -1,7 +1,7 @@
 ---
 title: "Convergence analysis of three semidiscrete numerical schemes for nonlocal geometric flows including perimeter terms"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2025-08-01-paper-5-Nonlocal-IMANUM
 excerpt: '(Joint with Wei Jiang and Chunmei Su)'
 date: 2025-08-01
