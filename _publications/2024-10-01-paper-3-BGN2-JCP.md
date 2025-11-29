@@ -1,7 +1,7 @@
 ---
 title: "A second-order in time, BGN-based parametric finite element method for geometric flows of curves"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-10-01-paper-3-BGN2-JCP
 excerpt: '(Joint with Wei Jiang and Chunmei Su)'
 date: 2024-10-01
