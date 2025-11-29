@@ -1,7 +1,7 @@
 ---
 title: "Stable Backward Differentiation Formula Time Discretization of BGN-Based Parametric Finite Element Methods for Geometric Flows"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-09-06-paper-2-BDFk-SISC
 excerpt: '(Joint with Wei Jiang and Chunmei Su)'
 date: 2024-09-06
