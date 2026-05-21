@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "Ganghui Zhang",
+    "email": "ganghui.zhang@ed.ac.uk",
+    "phone": "",
+    "website": "https://Ganghui-Zhang.github.io",
+    "summary": "",
+    "location": {
+      "address": "University of Oxford",
+      "postalCode": "",
+      "city": "Oxford",
+      "countryCode": "United Kingdom",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.co.uk/citations?user=DDKP7AgAAAAJ&hl=zh-CN"
+      },
+      {
+        "network": "arXiv",
+        "username": "",
+        "url": "https://arxiv.org/search/?query=Zhang%2C+Ganghui&searchtype=all&abstracts=show&order=-announced_date_first&size=50"
+      },
+      {
+        "network": "GitHub",
+        "username": "Ganghui-Zhang",
+        "url": "https://github.com/Ganghui-Zhang"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Mathematical Institute, University of Oxford, The United Kingdom",
+      "position": "Postdoctoral Research Assistant",
+      "startDate": "2025-09",
+      "endDate": "present",
+      "summary": "Mentor: Professor <a href='https://kaibohu.github.io/'>Kaibo Hu</a>"
+    },
+    {
+      "company": "Department of Mathematics, University of Edinburgh, The United Kingdom",
+      "position": "Postdoctoral Research Assistant",
+      "startDate": "2025-04",
+      "endDate": "2025-08",
+      "summary": "Mentor: Professor <a href='https://kaibohu.github.io/'>Kaibo Hu</a>"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Yau Mathematical Science Center, Tsinghua University, China. Supervisor: Professor <a href='http://www.chunmei-su.cn/'>Chunmei Su</a>",
+      "area": "Ph.D in Computational Mathematics",
+      "studyType": "",
+      "startDate": "2019",
+      "endDate": "2025",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Department of Mathematics, University of Regensburg, Germany. Host: Professor <a href='https://garcke.app.uni-regensburg.de/'>Harald Garcke</a>",
+      "area": "Visiting Student",
+      "studyType": "",
+      "startDate": "2024",
+      "endDate": "2024",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Department of Mathematics, Shandong University, China",
+      "area": "B.S. in Pure and applied Mathematics",
+      "studyType": "",
+      "startDate": "2015",
+      "endDate": "2019",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "date": "2023",
+      "award": "Yau Mathematical Science Center Schorlarship, Tsinghua University"
+    },
+    {
+      "date": "2018",
+      "award": "National Schorlarship, Shandong University"
+    }
+  ],
+  "grants": [],
+  "skills": [
+    {
+      "name": "Programing Software usage",
+      "keywords": ["MATLAB", "DUNE", "NGSolve"]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
+}
