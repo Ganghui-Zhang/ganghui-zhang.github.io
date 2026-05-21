@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Ganghui Zhang",
-    "email": "ganghui.zhang@ed.ac.uk",
+    "email": "zhangganghui2025@gmail.com",
     "phone": "",
     "website": "https://Ganghui-Zhang.github.io",
     "summary": "",
@@ -48,7 +48,7 @@
   ],
   "education": [
     {
-      "institution": "Yau Mathematical Science Center, Tsinghua University, China. Supervisor: Professor <a href='http://www.chunmei-su.cn/'>Chunmei Su</a>",
+      "institution": "Yau Mathematical Science Center, Tsinghua University, China.      Supervisor: Professor <a href='http://www.chunmei-su.cn/'>Chunmei Su</a>",
       "area": "Ph.D in Computational Mathematics",
       "studyType": "",
       "startDate": "2019",
@@ -57,7 +57,7 @@
       "courses": []
     },
     {
-      "institution": "Department of Mathematics, University of Regensburg, Germany. Host: Professor <a href='https://garcke.app.uni-regensburg.de/'>Harald Garcke</a>",
+      "institution": "Department of Mathematics, University of Regensburg, Germany.      Host: Professor <a href='https://garcke.app.uni-regensburg.de/'>Harald Garcke</a>",
       "area": "Visiting Student",
       "studyType": "",
       "startDate": "2024",
@@ -89,7 +89,7 @@
   "skills": [
     {
       "name": "Programing Software usage",
-      "keywords": ["MATLAB", "DUNE", "NGSolve"]
+      "keywords": ["MATLAB", "DUNE", "NGSolve", "Firedrake"]
     }
   ],
   "languages": [],
