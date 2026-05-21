@@ -5,7 +5,7 @@ category: preprints
 permalink: /publication/2026-03-26-pre-1-Helicity
 authors: '(Joint with Patrick E. Farrell, Mingdong He and Kaibo Hu)'
 date: 2026-03-26
-#venue: '2503.10774'
+venue: '2603.12134 '
 arxivurl:  https://arxiv.org/abs/2603.12134
 #paperurl: 'https://arxiv.org/abs/2603.12134' 
 ---
