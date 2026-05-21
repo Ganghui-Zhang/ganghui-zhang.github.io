@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2026-02-01-paper-8-Lagrange-Stokes-JCP
 authors: '(Joint with Harald Garcke and Dennis Trautwein)'
 date: 2026-02-01
-venue: 'Journal of Computational Physics, 560, Paper 114922
+venue: 'Journal of Computational Physics, 560, Paper 114922'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S002199912600272X'
 ---
 
