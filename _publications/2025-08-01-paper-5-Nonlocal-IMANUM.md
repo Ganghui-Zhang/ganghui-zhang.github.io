@@ -5,8 +5,8 @@ category: manuscripts
 permalink: /publication/2025-08-01-paper-5-Nonlocal-IMANUM
 authors: '(Joint with Wei Jiang and Chunmei Su)'
 date: 2025-08-01
-venue: 'IMA Journal of Numerical Analysis, to appear'
-paperurl: 'http://Ganghui-Zhang.github.io/files/Nonlocal-IMANUM.pdf'
+venue: 'IMA Journal of Numerical Analysis, 46(2), Pages 899–937'
+paperurl: 'https://academic.oup.com/imajna/article-abstract/46/2/899/8123032?redirectedFrom=fulltext'
 ---
 
 Abstract: We present and analyze three distinct semidiscrete schemes for solving nonlocal geometric flows incorporating perimeter terms. These schemes are based on the finite difference method, the finite element method and the finite element method with a specific tangential motion. We offer rigorous proofs of quadratic convergence under 
