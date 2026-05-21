@@ -3,7 +3,7 @@ title: "Isoparametric finite element methods for mean curvature flow and surface
 collection: publications
 category: manuscripts
 permalink: /publication/2025-12-12-paper-title-IsoBGN
-authors: '(Joint with Harald Garcke, Robert Nurnberg and Simon Praetorius)'
+authors: '(Joint with Harald Garcke, Robert N\"urnberg and Simon Praetorius)'
 date: 2025-12-12
 venue: 'Journal of Computational Physics, 539, Paper 114248'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0021999125005315'
