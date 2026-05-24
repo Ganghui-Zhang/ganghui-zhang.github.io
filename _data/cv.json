@@ -86,10 +86,16 @@
     }
   ],
   "grants": [],
-  "skills": [
+  "Programing Software usage": [
     {
-      "name": "Programing Software usage",
-      "keywords": ["MATLAB", "DUNE", "NGSolve", "Firedrake"]
+      "name": "MATLAB",
+      "keywords": ["Fluent"],
+       "name": "Firedrake",
+      "keywords": ["Fluent"],
+      "name": "NGSolve",
+      "keywords": ["Basic"],
+      "name": "DUNE",
+      "keywords": ["Basic"],
     }
   ],
   "languages": [],
