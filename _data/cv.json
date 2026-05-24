@@ -87,21 +87,21 @@
   ],
   "grants": [],
   "skills": [],
-  "Programing Software usage": [
+  "Softwares": [
     {
-      "Programing Software usage": "MATLAB",
+      "Software": "MATLAB",
       "fluency": "Advanced"
     },
     {
-      "Programing Software usage": "Firedrake",
+      "Software": "Firedrake",
       "fluency": "Advanced"
     },
     {
-      "Programing Software usage": "NGSolve",
+      "Software": "NGSolve",
       "fluency": "Basic"
     },
     {
-      "Programing Software usage": "DUNE",
+      "Software": "DUNE",
       "fluency": "Basic"
     },
   ],
