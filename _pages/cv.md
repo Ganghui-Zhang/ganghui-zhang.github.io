@@ -47,13 +47,14 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Programing Software usage
+Programming Software usage
 ======
 * MATLAB
 * DUNE
 * NGSolve
+* Firedrake
   
 Honors
 ======
-* Yau Mathematical Science Center Schorlarship, Tsinghua University, 2023
-* National Schorlarship, Shandong University, 2018
+* Yau Mathematical Science Center Scholarship, Tsinghua University, 2023
+* National Scholarship, Shandong University, 2018
