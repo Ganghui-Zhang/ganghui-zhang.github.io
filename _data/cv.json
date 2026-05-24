@@ -86,17 +86,24 @@
     }
   ],
   "grants": [],
+  "skills": [],
   "Programing Software usage": [
     {
-      "name": "MATLAB",
-      "keywords": ["Fluent"],
-       "name": "Firedrake",
-      "keywords": ["Fluent"],
-      "name": "NGSolve",
-      "keywords": ["Basic"],
-      "name": "DUNE",
-      "keywords": ["Basic"],
-    }
+      "Programing Software usage": "MATLAB",
+      "fluency": "Advanced"
+    },
+    {
+      "Programing Software usage": "Firedrake",
+      "fluency": "Advanced"
+    },
+    {
+      "Programing Software usage": "NGSolve",
+      "fluency": "Basic"
+    },
+    {
+      "Programing Software usage": "DUNE",
+      "fluency": "Basic"
+    },
   ],
   "languages": [],
   "interests": [],
