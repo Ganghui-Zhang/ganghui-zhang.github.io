@@ -48,7 +48,7 @@
   ],
   "education": [
     {
-      "institution": "Yau Mathematical Science Center, Tsinghua University, China.      Supervisor: Professor <a href='http://www.chunmei-su.cn/'>Chunmei Su</a>",
+      "institution": "Yau Mathematical Science Center, Tsinghua University, China. Supervisor: Professor <a href='http://www.chunmei-su.cn/'>Chunmei Su</a>",
       "area": "Ph.D in Computational Mathematics",
       "studyType": "",
       "startDate": "2019",
@@ -57,11 +57,11 @@
       "courses": []
     },
     {
-      "institution": "Department of Mathematics, University of Regensburg, Germany.      Host: Professor <a href='https://garcke.app.uni-regensburg.de/'>Harald Garcke</a>",
+      "institution": "Department of Mathematics, University of Regensburg, Germany. Host: Professor <a href='https://garcke.app.uni-regensburg.de/'>Harald Garcke</a>",
       "area": "Visiting Student",
       "studyType": "",
-      "startDate": "2024",
-      "endDate": "2024",
+      "startDate": "2024.6",
+      "endDate": "2024.11",
       "gpa": null,
       "courses": []
     },
@@ -78,11 +78,11 @@
   "awards": [
     {
       "date": "2023",
-      "award": "Yau Mathematical Science Center Schorlarship, Tsinghua University"
+      "award": "Yau Mathematical Science Center Scholarship, Tsinghua University"
     },
     {
       "date": "2018",
-      "award": "National Schorlarship, Shandong University"
+      "award": "National Scholarship, Shandong University"
     }
   ],
   "grants": [],
