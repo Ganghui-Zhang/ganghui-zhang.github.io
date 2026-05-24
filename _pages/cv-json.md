@@ -29,9 +29,10 @@ redirect_from:
 
 {% include cv-template.html %}
 
-<!-- To enable these links, add files/cv.pdf and uncomment the block below.-->
+<!-- To enable these links, add files/cv.pdf and uncomment the block below.
 <div class="cv-download-links">
   <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
   <a href="{{ base_path }}/cv/" class="btn btn--inverse">View Markdown CV</a>
 </div>
+-->
 
