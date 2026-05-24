@@ -317,7 +317,24 @@
   </div>
   {% endif %}
 
-  
+
+  {% if cv.Softwares.size > 0 %}
+  <!-- Softwares -->
+  <div class="cv-section">
+    <h2>Softwares</h2>
+    <ul class="cv-list">
+      {% for Software in cv.Softwares %}
+      <li class="cv-item">
+        <div class="cv-item-content">
+          <div class="cv-item-title">{{ Software.Software }}</div>
+          <div class="cv-item-detail">{{ Software.fluency }}</div>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
   
   {% if cv.interests.size > 0 %}
   <!-- Interests -->
