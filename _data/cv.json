@@ -60,12 +60,12 @@
   ],
   "education": [
     {
-      "institution": "Yau Mathematical Science Center, Tsinghua University, China. Supervisor: Professor <a href='http://www.chunmei-su.cn/'>Chunmei Su</a>",
+      "institution": "Yau Mathematical Science Center, Tsinghua University, China",
       "area": "Ph.D in Computational Mathematics",
       "studyType": "",
       "startDate": "2019",
       "endDate": "2025",
-      "gpa": null,
+      "summary": "Supervisor: Professor <a href='http://www.chunmei-su.cn/'>Chunmei Su</a>""
       "courses": []
     },
     {
@@ -74,7 +74,6 @@
       "studyType": "",
       "startDate": "2015",
       "endDate": "2019",
-      "gpa": null,
       "courses": []
     }
   ],
