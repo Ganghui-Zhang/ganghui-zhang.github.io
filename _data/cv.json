@@ -30,10 +30,17 @@
   },
   "work": [
     {
+      "company": "Department of Applied Mathematics, The Hong Kong Polytechnic University, Hong Kong, China",
+      "position": "Postdoctoral Fellow",
+      "startDate": "2026-06",
+      "endDate": "present",
+      "summary": "Mentor: Professor <a href='https://www.polyu.edu.hk/ama/profile/byli/'>Buyang Li</a>"
+    },
+    {
       "company": "Mathematical Institute, University of Oxford, The United Kingdom",
       "position": "Postdoctoral Research Assistant",
       "startDate": "2025-09",
-      "endDate": "present",
+      "endDate": "2026-05",
       "summary": "Mentor: Professor <a href='https://kaibohu.github.io/'>Kaibo Hu</a>"
     },
     {
@@ -42,7 +49,14 @@
       "startDate": "2025-04",
       "endDate": "2025-08",
       "summary": "Mentor: Professor <a href='https://kaibohu.github.io/'>Kaibo Hu</a>"
-    }
+    },
+    {
+      "company": "Department of Mathematics, University of Regensburg, Germany",
+      "position": "Visiting Student",
+      "startDate": "2024-06",
+      "endDate": "2024-11",
+      "summary": "Host: Professor <a href='https://garcke.app.uni-regensburg.de/'>Harald Garcke</a>"
+    },
   ],
   "education": [
     {
@@ -51,15 +65,6 @@
       "studyType": "",
       "startDate": "2019",
       "endDate": "2025",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "Department of Mathematics, University of Regensburg, Germany. Host: Professor <a href='https://garcke.app.uni-regensburg.de/'>Harald Garcke</a>",
-      "area": "Visiting Student",
-      "studyType": "",
-      "startDate": "2024",
-      "endDate": "2024",
       "gpa": null,
       "courses": []
     },
